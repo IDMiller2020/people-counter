@@ -1,0 +1,66 @@
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1xlFQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+html {
+  font-size: 16px;
+}
+body {
+  font-family: 'Poppins';
+  background-image: url(/doorway2.jpg);
+  height: 900px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#container {
+
+  display: flex;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+}
+
+#content {
+  background-color: hsla(214, 18%, 63%, 80%);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin: auto;
+  padding: 25px 50px;
+}
+
+h2 {
+  font-size: 4rem;
+}
+
+p {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+button {
+  width: 150px;
+  margin: 5px 0;
+  padding: 5px;
+  border-radius: 5px;
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+#increment-btn {
+  background-color: hsl(0, 100%, 27%);
+  color: hsl(0, 0%, 91%);
+}
+
+#save-btn {
+  background-color: hsl(120, 100%, 20%);
+  color: hsl(0, 0%, 91%);
+}

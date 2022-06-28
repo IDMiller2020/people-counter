@@ -1,0 +1,1 @@
+The people counter app is from the Free Code Camp Youtube video called JavaScript Programming - Full Course.
