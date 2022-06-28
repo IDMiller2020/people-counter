@@ -1,1 +1,1 @@
-The people counter app is from the Free Code Camp Youtube video called JavaScript Programming - Full Course.
+The people counter app is a guided assignment from the Free Code Camp Youtube video called [JavaScript Programming - Full Course](https://www.youtube.com/watch?v=jS4aFq5-91M&list=PLBSWN3X5rncE9_FHGZoeJO9m4CDTI5gvy&index=2).
